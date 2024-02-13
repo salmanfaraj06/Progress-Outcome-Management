@@ -1,2 +1,2 @@
-# Progress-Outcome-Prediction
-An academic progression outcome prediction system developed using Python.
+# Progress-Outcome-Management-System
+An academic progression management system developed using Python.
